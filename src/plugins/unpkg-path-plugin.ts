@@ -1,5 +1,6 @@
 import * as esbuild from 'esbuild-wasm';
 import axios from "axios";
+import {resetFirstInputPolyfill} from "web-vitals/dist/modules/lib/polyfills/firstInputPolyfill";
 
 export const unpkgPathPlugin = () => {
     return {
