@@ -11,27 +11,24 @@ const Resizable: React.FC<ResizableProps> = ({direction, children}) => {
 
     if (direction === 'horizontal') {
         resizableProps = {
-            maxConstraints: [window.innerWidth * 0.2, Infinity],
-            minConstraints: [window.innerWidth * 0.75, Infinity],
+            className: 'resize-horizontal',
+            minConstraints: [window.innerWidth * 0.2, Infinity],
+            maxConstraints: [window.innerWidth * 0.75, Infinity],
             height: Infinity,
             width: window.innerWidth * 0.75,
-            resizeHandles: ['e']
+            resizeHandles: ['e'],
         };
     } else {
         resizableProps = {
-            maxConstraints: [Infinity, window.innerHeight * 0.9],
             minConstraints: [Infinity, 24],
+            maxConstraints: [Infinity, window.innerHeight * 0.9],
             height: 300,
             width: Infinity,
-            resizeHandles: ['s']
-        }
+            resizeHandles: ['s'],
+        };
     }
 
-
-    return (
-        <ResizableBox {...resizableProps}>
-            {children}
-        </ResizableBox>);
+    return <ResizableBox {...resizableProps}>{children}</ResizableBox>;
 };
 
 export default Resizable;
