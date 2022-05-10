@@ -2,7 +2,7 @@ import {ActionType} from "../action-types";
 import {CellTypes} from "../../cell";
 
 interface MoveCellAction {
-    type: ActionType.INSERT_CELL_BEFORE;
+    type: ActionType.MOVE_CELL;
     payload: {
         id: string;
         direction: 'up' | 'down';
