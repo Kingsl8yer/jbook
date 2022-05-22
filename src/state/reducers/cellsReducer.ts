@@ -18,7 +18,7 @@ const initialState: CellsState = {
     order: [],
     data: {}
 };
-const reducer = produce((state: CellsState = initialState, action: Action) => {
+const reducer = produce((state: CellsState = initialState, action: Action): CellsState => {
 
     switch (action.type) {
 
