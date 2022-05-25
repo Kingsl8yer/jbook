@@ -9,6 +9,11 @@
     opacity: 1;
 }
 
+/*.add-cell:active{*/
+/*    opacity: 0 !important;*/
+/*    transition: opacity 0s;*/
+/*}*/
+
 .add-cell.force-visible {
     opacity: 1;
 }
