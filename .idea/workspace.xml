@@ -22,17 +22,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f9eeafa-5bae-4098-8b4c-bd18f67967e0" name="Default Changelist" comment="Detecting When to Save">
+    <list default="true" id="4f9eeafa-5bae-4098-8b4c-bd18f67967e0" name="Default Changelist" comment="Running ESBuild">
+      <change afterPath="$PROJECT_DIR$/packages/cli/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/local-api/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/cli/dist/commands/serve.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/cli/dist/commands/serve.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/cli/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/cli/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/cli/src/commands/serve.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/cli/src/commands/serve.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/local-api/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-api/dist/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/local-api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-api/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/local-api/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-api/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/local-client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/local-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/local-client/src/cell.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-client/src/cell.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/local-client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-client/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +56,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -119,7 +115,8 @@
       <workItem from="1658075509649" duration="816000" />
       <workItem from="1658135871830" duration="1289000" />
       <workItem from="1658137213239" duration="394000" />
-      <workItem from="1658137640797" duration="1998000" />
+      <workItem from="1658137640797" duration="3276000" />
+      <workItem from="1658145099836" duration="2705000" />
     </task>
     <task id="LOCAL-00001" summary="Linking Packages">
       <created>1654628824673</created>
@@ -205,7 +202,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657918789363</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Auditing Dev Dependencies">
+      <created>1658139792786</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1658139792786</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Running ESBuild">
+      <created>1658146768454</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1658146768454</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +251,8 @@
     <MESSAGE value="Saving a List of Cells" />
     <MESSAGE value="Adding a Persist Middleware" />
     <MESSAGE value="Detecting When to Save" />
-    <option name="LAST_COMMIT_MESSAGE" value="Detecting When to Save" />
+    <MESSAGE value="Auditing Dev Dependencies" />
+    <MESSAGE value="Running ESBuild" />
+    <option name="LAST_COMMIT_MESSAGE" value="Running ESBuild" />
   </component>
 </project>
