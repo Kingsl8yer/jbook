@@ -1,6 +1,6 @@
 {
   "name": "jsnote-tgim",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "",
   "bin": "dist/index.js",
   "publishConfig": {
@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsnote-tgim/local-client": "^3.0.0"
+    "@jsnote-tgim/local-client": "^4.0.0"
   },
   "devDependencies": {
     "@jsnote-tgim/local-api": "^1.0.0",
