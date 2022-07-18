@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,11 +22,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f9eeafa-5bae-4098-8b4c-bd18f67967e0" name="Default Changelist" comment="">
+    <list default="true" id="4f9eeafa-5bae-4098-8b4c-bd18f67967e0" name="Default Changelist" comment="Detecting When to Save">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/cli/node_modules/local-api/node_modules/local-client/src/state/middlewares/persist-middleware.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/cli/node_modules/local-api/node_modules/local-client/src/state/middlewares/persist-middleware.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/local-api/node_modules/local-client/src/state/middlewares/persist-middleware.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-api/node_modules/local-client/src/state/middlewares/persist-middleware.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/local-client/src/state/middlewares/persist-middleware.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-client/src/state/middlewares/persist-middleware.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/cli/dist/commands/serve.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/cli/dist/commands/serve.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/cli/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/cli/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/cli/src/commands/serve.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/cli/src/commands/serve.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/local-api/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-api/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/local-api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-api/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/local-api/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-api/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/local-client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/local-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/local-client/src/cell.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-client/src/cell.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,30 +50,31 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2AGCxFdF69OxUx3Mydq77uu5Ziq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="ts.external.directory.path" value="C:\Users\Mike_Varona\Desktop\Help\React\Portfolio\jbook\packages\cli\node_modules\typescript\lib" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "D:\\Programming\\React\\Projects\\Portfolio\\jbook\\packages\\cli\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Mike_Varona\Desktop\Help\React\Portfolio\jbook\packages\cli\src" />
@@ -104,6 +114,12 @@
       <workItem from="1657906390263" duration="2709000" />
       <workItem from="1657909151420" duration="4358000" />
       <workItem from="1657917419429" duration="1501000" />
+      <workItem from="1657972111045" duration="878000" />
+      <workItem from="1657973265998" duration="1517000" />
+      <workItem from="1658075509649" duration="816000" />
+      <workItem from="1658135871830" duration="1289000" />
+      <workItem from="1658137213239" duration="394000" />
+      <workItem from="1658137640797" duration="1998000" />
     </task>
     <task id="LOCAL-00001" summary="Linking Packages">
       <created>1654628824673</created>
@@ -205,7 +221,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -226,43 +241,5 @@
     <MESSAGE value="Adding a Persist Middleware" />
     <MESSAGE value="Detecting When to Save" />
     <option name="LAST_COMMIT_MESSAGE" value="Detecting When to Save" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="506" y="239" key="#TODO" timestamp="1657918639056">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="506" y="239" key="#TODO/0.0.1920.1040@0.0.1920.1040" timestamp="1657918639056" />
-    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1654850755747">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654850755747" />
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1654629551147">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654629551147" />
-    <state x="280" y="0" key="CommitChangelistDialog2" timestamp="1657918655194">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="280" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1657918655194" />
-    <state x="461" y="165" width="1201" height="710" key="SettingsEditor" timestamp="1655076402284">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="165" width="1201" height="710" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1655076402283" />
-    <state width="500" height="446" key="SwitcherDM" timestamp="1657887206683">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="500" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1657887206683" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1657912986332">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1657912986332" />
-    <state x="668" y="172" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1656027681524">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="668" y="172" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1656027681524" />
-    <state x="777" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1655075796731">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="777" y="430" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1655075796731" />
   </component>
 </project>
