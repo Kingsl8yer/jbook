@@ -23,10 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f9eeafa-5bae-4098-8b4c-bd18f67967e0" name="Default Changelist" comment="Running ESBuild">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/cli/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/cli/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/local-api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-api/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/local-client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-client/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/local-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/local-client/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,6 +119,8 @@
       <workItem from="1658145099836" duration="4306000" />
       <workItem from="1658151523022" duration="2035000" />
       <workItem from="1658162946500" duration="570000" />
+      <workItem from="1658166763570" duration="845000" />
+      <workItem from="1658167632754" duration="318000" />
     </task>
     <task id="LOCAL-00001" summary="Linking Packages">
       <created>1654628824673</created>
