@@ -22,9 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f9eeafa-5bae-4098-8b4c-bd18f67967e0" name="Default Changelist" comment="Running ESBuild">
+    <list default="true" id="4f9eeafa-5bae-4098-8b4c-bd18f67967e0" name="Default Changelist" comment="Publishing with Lerna">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/cli/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/cli/src/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -117,7 +117,7 @@
       <workItem from="1658151523022" duration="2035000" />
       <workItem from="1658162946500" duration="570000" />
       <workItem from="1658166763570" duration="845000" />
-      <workItem from="1658167632754" duration="1857000" />
+      <workItem from="1658167632754" duration="3870000" />
     </task>
     <task id="LOCAL-00001" summary="Linking Packages">
       <created>1654628824673</created>
@@ -224,11 +224,28 @@
       <option name="project" value="LOCAL" />
       <updated>1658147942348</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Publishing with Lerna">
+      <created>1658169743921</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1658169743921</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -261,6 +278,13 @@
     <MESSAGE value="Detecting When to Save" />
     <MESSAGE value="Auditing Dev Dependencies" />
     <MESSAGE value="Running ESBuild" />
-    <option name="LAST_COMMIT_MESSAGE" value="Running ESBuild" />
+    <MESSAGE value="Publishing with Lerna" />
+    <MESSAGE value="Trying to publish with Lerna" />
+    <MESSAGE value="Trying to publish with Lerna 2" />
+    <MESSAGE value="Trying to publish with Lerna 3" />
+    <MESSAGE value="Trying to publish with Lerna 4" />
+    <MESSAGE value="Trying to publish with Lerna 3" />
+    <MESSAGE value="Trying to publish with Lerna 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Publishing with Lerna" />
   </component>
 </project>
