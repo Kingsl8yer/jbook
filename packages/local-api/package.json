@@ -5,7 +5,9 @@
   "publishConfig": {
     "access": "public"
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -22,9 +24,9 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
+    "@jsnote-tgim/local-client": "^1.0.0",
     "cors": "^2.8.5",
     "express": "^4.18.1",
-    "http-proxy-middleware": "^2.0.6",
-    "@jsnote-tgim/local-client": "^0.1.0"
+    "http-proxy-middleware": "^2.0.6"
   }
 }
