@@ -1,4 +1,4 @@
-#!/usr/local/bin/env node
+#!/usr/bin/env node
 import {program} from "commander";
 import {serveCommand} from "./commands/serve";
 
